@@ -55,7 +55,7 @@ Inspired by 7-Eleven’s model, a one-week price lock feature is recommended. Wh
 
 Based on the key insights uncovered throughout this analysis, a prototype of the Energy Oracle application has been developed to demonstrate its potential functionality and user experience. This prototype highlights how real-time data and predictive analytics can be leveraged to help users make smarter refueling decisions. 
 
-**Video Demonstration of Energy Oracle App in action**
+### Video Demonstration of Energy Oracle App in action
 [![Watch the demo](https://img.youtube.com/vi/247Yvbs0aCM/0.jpg)](https://youtu.be/247Yvbs0aCM)
 
 
