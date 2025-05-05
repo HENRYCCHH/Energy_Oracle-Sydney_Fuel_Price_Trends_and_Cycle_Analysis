@@ -18,6 +18,8 @@
 - [Insights](#insights)
 - [Recommendations for Energy Oracle App Development](#recommendations-for-energy-oracle-app-development)
 
+***
+
 ## Project Background
 
 Launched in 2024, **Energy Oracle** is a data-driven initiative designed to address a growing concern among Australian motorists: volatile and unpredictable fuel prices driven by global market dynamics and local supply disruptions. In high-dependency regions such as New South Wales, where millions rely on petrol-powered vehicles for daily transport, fluctuating fuel prices have led to increasing financial pressure and uncertainty around refueling decisions.
@@ -28,7 +30,7 @@ The outcomes of this analysis support the development of the **Energy Oracle** a
 
 ## Executive Summary
 
-This project analyses  600k+ fuel price records collected across New South Wales between 2022 and 2024, with a focused lens on the Sydney metropolitan area, where fuel pricing exhibits both short-term cyclical behavior and long-term market trends. The insights serve as a foundation for developing Energy Oracle, a predictive app aimed at helping users optimize their refueling decisions and reduce fuel expenses.
+This project analyses 900k+ fuel price records collected across New South Wales between 2022 and 2024, with a focused lens on the Sydney metropolitan area, where fuel pricing exhibits both short-term cyclical behavior and long-term market trends. The insights serve as a foundation for developing Energy Oracle, a predictive app aimed at helping users optimize their refueling decisions and reduce fuel expenses.
 Key findings include:
 
 ### Consistent Fuel Cycle Timing
@@ -50,8 +52,10 @@ By combining subregional targeting with alternating brand-based strategies, user
 Inspired by 7-Eleven’s model, a one-week price lock feature is recommended. When used in conjunction with trough forecasts, this allows users to secure low prices before market rebounds, further maximizing cost efficiency and offering a unique value proposition within the fuel app ecosystem.
 
 
+
 Based on the key insights uncovered throughout this analysis, a prototype of the Energy Oracle application has been developed to demonstrate its potential functionality and user experience. This prototype highlights how real-time data and predictive analytics can be leveraged to help users make smarter refueling decisions. 
 
+## Watch the Video Demonstration of Energy Oracle App in action
 [![Watch the demo](https://img.youtube.com/vi/247Yvbs0aCM/0.jpg)](https://youtu.be/247Yvbs0aCM)
 
 
@@ -76,6 +80,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 **Cycle Price Swing Variability (Standard Deviation)** -  Quantifies the variability of the cycle range over time.
 
+***
 
 ## Insight Deep-Dive
 
@@ -90,7 +95,8 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 ### Fuel Price Trends by Quarter and Weekday
 
-[![View Fuel Price Trends by Quarter and Weekday Dashboard](https://public.tableau.com/static/images/Sy/SydneyDailyFuelPrice2022-2024/SydneyFuelPriceTrendsbyQuarterandWeekday/1.png)](https://public.tableau.com/views/SydneyDailyFuelPrice2022-2024/SydneyFuelPriceTrendsbyQuarterandWeekday)
+Click the image below to access the interactive Tableau dashboard: 
+[![View Fuel Price Trends by Quarter and Weekday Dashboard](Visualisations/Fuel_Price_Trends_by_Quarter_and_Weekday.png)](https://public.tableau.com/views/SydneyDailyFuelPrice2022-2024/SydneyFuelPriceTrendsbyQuarterandWeekday)
 
 - Fuel prices in Sydney from 2022 to 2024 exhibit a clear seasonal trend, marked by a clear upward trend in Sydney fuel prices is observed from Q3 2023 to Q2 2024, with consistent increases across all weekdays. This reverses in Q3 2024, marking the start of a broader price decline and potential market correction.
 
@@ -98,7 +104,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 
 ### Fuel Price Patterns
-
+Click the image below to access the interactive Tableau dashboard: 
 [![View Fuel Price Patterns Dashboard](https://public.tableau.com/static/images/Sy/SydneyWeeklyAverageMarketFuelPrice2022-2024/SydneyWeeklyFuelAverageMarketPricein2022-2024/1.png)](https://public.tableau.com/views/SydneyWeeklyAverageMarketFuelPrice2022-2024/SydneyWeeklyFuelAverageMarketPricein2022-2024)
 
 - Superimposed on this seasonal pattern is a consistent short-term price cycle, characterized by periodic peaks and troughs. These short cycles average 5.9 weeks in duration and remain relatively stable across all three years, indicating a predictable structure in consumer fuel pricing.
@@ -112,6 +118,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 ### Diesel Price Behavior vs Other Fuel Types
 
+Click the image below to access the interactive Tableau dashboard:
 [![View Diesel Price Behavior vs Other Fuel Types Dashboard](https://public.tableau.com/static/images/Sy/SydneyWeeklyFuelPricebyFueltype/SydneyWeeklyFuelMarketPricebyFuelType/1.png)](https://public.tableau.com/views/SydneyWeeklyFuelPricebyFueltype/SydneyWeeklyFuelMarketPricebyFuelType)
 
 - While most fuel types (U91, P95, P98, E10) exhibit regular and synchronized fuel price cycle durations, typically repeating every 6 to 8 weeks. Diesel (DL) demonstrates a markedly different pattern.
@@ -122,6 +129,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 ### Fuel Cycle Dynamics
 ![Fuel Cycle Dynamic info](Visualisations/Fuel_Cycle_Dynamics.png)
 
+Click the image below to access the interactive Tableau dashboard: 
 [![View Cycle Price Swing Dashboard](https://public.tableau.com/static/images/Fu/FuelPriceCycleSwingsPeak-to-TroughDifferences20222024/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears/1.png)](https://public.tableau.com/views/FuelPriceCycleSwingsPeak-to-TroughDifferences20222024/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears)
 
 - Sydney's fuel market exhibited an Average Cycle Price Swing of $19.0c/L, representing a 10.2% increase from trough to peak within each cycle.
@@ -133,6 +141,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 ### Regional Fuel Price Variation Across Sydney
 
+Click the image below to access the interactive Tableau dashboard: 
 [![View Regional Fuel Price Variation Across Sydney Dashboard](https://public.tableau.com/static/images/Sy/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice/1.png)](https://public.tableau.com/views/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice)
 
 ![Subregion Fuel Price info](Visualisations/Subregion_Fuel_Price.png)
@@ -156,6 +165,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 - In contrast, most other brands saw a sharp decline in cycle price swing during 2023, followed by a modest rebound or stabilization in 2024, indicating a partial return to more typical cycle behavior.
 
+Click the image below to access the interactive Tableau dashboard: 
 [![View Sydney Fuel Market Price by Brands 2023 Dashboard](https://public.tableau.com/static/images/Sy/SydneyAverageMarketFuelPricebyBrands2023/2023SydneyAverageFuelMarketPricebyBrands/1.png)](https://public.tableau.com/views/SydneyAverageMarketFuelPricebyBrands2023/2023SydneyAverageFuelMarketPricebyBrands)
 
 - Analysis of weekly price trends in 2023 reveals that consumers can improve fuel savings by alternating between brands with different price fluctuation profiles.
@@ -164,7 +174,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 - This brand-switching strategy offers a practical way to mitigate price surges and maintain lower average fuel costs throughout the year.
 
-
+***
 
 ## Insights
 Sydney's fuel price landscape reveals a clear seasonal trend, overlaid with predictable short-term cycles that remain consistent across years. In relatively stable market conditions, such as in 2024, both cycle duration and intra-cycle price fluctuations remained uniform, with average cycle length stabilizing around 5.9 weeks and price shifts averaging $19c/L. Sunday consistently offers the lowest prices, making it a key temporal anchor for prediction and alerts.
@@ -175,8 +185,7 @@ Despite notable differences in average fuel prices across Sydney subregions (ran
 
 By alternating fueling with different fuel brand during peak and trough season and combining with a one-week price lock mechanism, end users have the potential to reduce their average refueling expenses by up to 24.7%
 
-
-
+***
 
 ## Recommendations for Energy Oracle App Development
 ### Incorporate Diesel as a Long-Term Market Indicator
@@ -193,3 +202,9 @@ This hybrid fueling strategy minimizes user exposure to volatile price cycles.
 
 ### Incorporate Price Locking Simulation for Savings Forecasting
 Drawing inspiration from 7-Eleven’s price-lock feature, Energy Oracle could model optimal refueling windows and simulate potential savings if users act on forecasted trough prices. This adds a practical, action-oriented layer to forecasts, encouraging users to lock in prices when cost savings are projected to be highest.
+
+*** 
+
+
+- All the data cleaning and preprocessing are documented in [Python Juypter Notebook](Data_preprocessing/).
+- Data exploration, analysis and findings are avaliable on [Tableau Public](https://public.tableau.com/views/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), with supporting workbooks provided in [Tableau and Excel formats](Data_exploration/).
