@@ -58,7 +58,7 @@ Based on the key insights uncovered throughout this analysis, a prototype of the
 
 ## Video Demonstration of Energy Oracle App in action
 <a href="https://youtu.be/247Yvbs0aCM" target="_blank">
-  <img src="https://img.youtube.com/vi/247Yvbs0aCM/0.jpg" width="600" alt="Watch the Energy Oracle demo"/>
+  <img src="https://img.youtube.com/vi/247Yvbs0aCM/0.jpg" width="800" alt="Watch the Energy Oracle demo"/>
 </a>
 
 
@@ -147,14 +147,15 @@ Click the image below to access the interactive Tableau dashboard:
 Click the image below to access the interactive Tableau dashboard: 
 [![View Regional Fuel Price Variation Across Sydney Dashboard](https://public.tableau.com/static/images/Sy/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice/1.png)](https://public.tableau.com/views/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice)
 
-<img src="Visualisations/Subregional_Potential_Fuel_Price_Saving.png" width="400" alt="Subregion Potential Fuel Price Saving info"/>
+<img src="Visualisations/Subregion_Fuel_Price.png" width="800" alt="Subregion Fuel Price info"/>
 
 
 - Average fuel prices across Sydney subregions range from $191.2c/L in Canterbury-Bankstown to $205.1c/L in the Eastern Suburbs, with the highest prices concentrated in the Northern and Eastern districts, and the lowest prices found in Western and Southern regions.
 
 - Despite this geographic variation, the Absolute Price Gap between the average and the lower 5th percentile stations remains consistently stable, averaging $32.2c/L across all subregions, with less than 1% variation. This suggests a uniform opportunity for savings across regions for consumers who actively seek out the lowest-priced stations.
 
-![Subregion Potential Fuel Price Saving info](Visualisations/Subregional_Potential_Fuel_Price_Saving.png)
+<img src="Visualisations/Subregional_Potential_Fuel_Price_Saving.png" width="600" alt="Subregion Potential Fuel Price Saving info"/>
+
 
 - This translates to a potential average saving of 19.1% for consumers who refuel at the most competitively priced stations within their local area , which reinforces the value of price-aware refueling behavior across all subregions.
 
