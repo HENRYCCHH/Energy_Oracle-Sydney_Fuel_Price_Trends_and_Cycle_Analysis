@@ -4,6 +4,7 @@
 
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
+- [Video Demonstration of Energy Oracle App in action](#video-demonstration-of-energy-oracle-app-in-action)
 - [North Star Metrics](#north-star-metrics)
   - [Timing Metrics](#timing-metrics)
   - [Pricing Metrics](#pricing-metrics)
@@ -55,8 +56,10 @@ Inspired by 7-Eleven’s model, a one-week price lock feature is recommended. Wh
 
 Based on the key insights uncovered throughout this analysis, a prototype of the Energy Oracle application has been developed to demonstrate its potential functionality and user experience. This prototype highlights how real-time data and predictive analytics can be leveraged to help users make smarter refueling decisions. 
 
-### Video Demonstration of Energy Oracle App in action
-[![Watch the demo](https://img.youtube.com/vi/247Yvbs0aCM/0.jpg)](https://youtu.be/247Yvbs0aCM)
+## Video Demonstration of Energy Oracle App in action
+<a href="https://youtu.be/247Yvbs0aCM" target="_blank">
+  <img src="https://img.youtube.com/vi/247Yvbs0aCM/0.jpg" width="600" alt="Watch the Energy Oracle demo"/>
+</a>
 
 
 ## North Star Metrics 
@@ -144,7 +147,8 @@ Click the image below to access the interactive Tableau dashboard:
 Click the image below to access the interactive Tableau dashboard: 
 [![View Regional Fuel Price Variation Across Sydney Dashboard](https://public.tableau.com/static/images/Sy/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice/1.png)](https://public.tableau.com/views/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice)
 
-![Subregion Fuel Price info](Visualisations/Subregion_Fuel_Price.png)
+<img src="Visualisations/Subregional_Potential_Fuel_Price_Saving.png" width="400" alt="Subregion Potential Fuel Price Saving info"/>
+
 
 - Average fuel prices across Sydney subregions range from $191.2c/L in Canterbury-Bankstown to $205.1c/L in the Eastern Suburbs, with the highest prices concentrated in the Northern and Eastern districts, and the lowest prices found in Western and Southern regions.
 
