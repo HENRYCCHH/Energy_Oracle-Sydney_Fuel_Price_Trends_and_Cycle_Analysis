@@ -58,7 +58,7 @@ Based on the key insights uncovered throughout this analysis, a prototype of the
 
 ## Video Demonstration of Energy Oracle App in action
 <a href="https://youtu.be/247Yvbs0aCM" target="_blank">
-  <img src="https://img.youtube.com/vi/247Yvbs0aCM/0.jpg" width="800" alt="Watch the Energy Oracle demo"/>
+  <img src="https://img.youtube.com/vi/247Yvbs0aCM/0.jpg" width="650" alt="Watch the Energy Oracle demo"/>
 </a>
 
 
@@ -89,7 +89,8 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 
 ### Fuel Price Distribution in Sydney (2022–2024)
 
-![Fuel Price Distribution in Sydney (2022–2024)](Visualisations/Fuel_Price_Distribution_in_Sydney_2022–2024.png)
+<img src="Visualisations/Fuel_Price_Distribution_in_Sydney_2022–2024.png" width="650" alt="Fuel Price Distribution in Sydney (2022–2024)"/>
+
 
 - Over the 2022–2024 period, the average fuel price in Sydney was 196.9 cents per litre ($c/L), while the lower 5th percentile of prices averaged $164.6c/L.
 
