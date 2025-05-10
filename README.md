@@ -212,5 +212,5 @@ Drawing inspiration from 7-Eleven’s price-lock feature, Energy Oracle could mo
 *** 
 
 
-- All the data cleaning and preprocessing are documented in [Python Juypter Notebook](Data_preprocessing/).
+- Data cleaning and preprocessing were performed and documented in [Excel](https://drive.google.com/drive/folders/1-ippmnTmg4Rj_ObE9Llx6kPAvnjzUyYg?usp=sharing) & [Python(Juypter Notebook)](Data_preprocessing/).
 - Data exploration, analysis and findings are avaliable on [Tableau Public](https://public.tableau.com/views/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), with supporting workbooks provided in [Tableau and Excel formats](Data_exploration/).
