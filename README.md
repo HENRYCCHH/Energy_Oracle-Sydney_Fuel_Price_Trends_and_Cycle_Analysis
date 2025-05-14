@@ -171,7 +171,7 @@ Click the image below to access the interactive Tableau dashboard:
 - In contrast, most other brands saw a sharp decline in cycle price swing during 2023, followed by a modest rebound or stabilization in 2024, indicating a partial return to more typical cycle behavior.
 
 Click the image below to access the interactive Tableau dashboard: 
-[![View Sydney Fuel Market Price by Brands 2023 Dashboard](Visualisations/Sydney_Average_Fuel_Market_Price_by_brands_2023.png)](https://public.tableau.com/views/2023SydneyFuelPricebybrands/2023SydneyFuelPricebybrands?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![View Sydney Fuel Market Price by Brands 2023 Dashboard](Visualisations/Sydney_Average_Fuel_Market_Price_by_brand_2023.png)](https://public.tableau.com/views/2023SydneyFuelPricebybrands/2023SydneyFuelPricebybrands?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Analysis of weekly price trends in 2023 reveals that consumers can improve fuel savings by alternating between brands with different price fluctuation profiles.
 
