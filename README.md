@@ -100,7 +100,7 @@ The following core metrics serve as the analytical foundation for the Energy Ora
 ### Fuel Price Trends by Quarter and Weekday
 
 Click the image below to access the interactive Tableau dashboard: 
-[![View Fuel Price Trends by Quarter and Weekday Dashboard](Visualisations/Fuel_Price_Trends_by_Quarter_and_Weekday.png)](https://public.tableau.com/views/SydneyDailyFuelPrice2022-2024/SydneyFuelPriceTrendsbyQuarterandWeekday)
+[![View Fuel Price Trends by Quarter and Weekday Dashboard](Visualisations/Fuel_Price_Trends_by_Quarter_and_Weekday.png)](https://public.tableau.com/views/SydneyFuelPriceTrendsbyQuarterandWeekdayin2022-2024/SydneyFuelPriceTrendsbyQuarterandWeekday?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Fuel prices in Sydney from 2022 to 2024 exhibit a clear seasonal trend, marked by a clear upward trend in Sydney fuel prices is observed from Q3 2023 to Q2 2024, with consistent increases across all weekdays. This reverses in Q3 2024, marking the start of a broader price decline and potential market correction.
 
@@ -109,8 +109,7 @@ Click the image below to access the interactive Tableau dashboard:
 
 ### Fuel Price Patterns
 Click the image below to access the interactive Tableau dashboard: 
-[![View Fuel Price Patterns Dashboard](https://public.tableau.com/static/images/Sy/SydneyWeeklyAverageMarketFuelPrice2022-2024/SydneyWeeklyFuelAverageMarketPricein2022-2024/1.png)](https://public.tableau.com/views/SydneyWeeklyAverageMarketFuelPrice2022-2024/SydneyWeeklyFuelAverageMarketPricein2022-2024)
-
+[![View Fuel Price Patterns Dashboard](Visualisations/Sydney_Weekly_Fuel_Average_Market_Price_(2022-2024).png)](https://public.tableau.com/views/SydneyWeeklyFuelAverageMarketPrice2022-2024/SydneyWeeklyFuelAverageMarketPricein2022-2024?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Superimposed on this seasonal pattern is a consistent short-term price cycle, characterized by periodic peaks and troughs. These short cycles average 5.9 weeks in duration and remain relatively stable across all three years, indicating a predictable structure in consumer fuel pricing.
 
 ![Timing Metrics info](Visualisations/Timing_Metrics.png)
@@ -123,7 +122,7 @@ Click the image below to access the interactive Tableau dashboard:
 ### Diesel Price Behavior vs Other Fuel Types
 
 Click the image below to access the interactive Tableau dashboard:
-[![View Diesel Price Behavior vs Other Fuel Types Dashboard](https://public.tableau.com/static/images/Sy/SydneyWeeklyFuelPricebyFueltype/SydneyWeeklyFuelMarketPricebyFuelType/1.png)](https://public.tableau.com/views/SydneyWeeklyFuelPricebyFueltype/SydneyWeeklyFuelMarketPricebyFuelType)
+[![View Diesel Price Behavior vs Other Fuel Types Dashboard](Visualisations/Sydney_Weekly_Fuel_Average_Market_Price_by_Fuel_Type.png)](https://public.tableau.com/views/SydneyWeeklyFuelAverageMarketPricebyFuelType/SydneyWeeklyFuelMarketPricebyFuelType?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - While most fuel types (U91, P95, P98, E10) exhibit regular and synchronized fuel price cycle durations, typically repeating every 6 to 8 weeks. Diesel (DL) demonstrates a markedly different pattern.
 
@@ -134,7 +133,7 @@ Click the image below to access the interactive Tableau dashboard:
 ![Fuel Cycle Dynamic info](Visualisations/Fuel_Cycle_Dynamics.png)
 
 Click the image below to access the interactive Tableau dashboard: 
-[![View Cycle Price Swing Dashboard](https://public.tableau.com/static/images/Fu/FuelPriceCycleSwingsPeak-to-TroughDifferences20222024/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears/1.png)](https://public.tableau.com/views/FuelPriceCycleSwingsPeak-to-TroughDifferences20222024/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears)
+[![View Cycle Price Swing Dashboard](Visualisations/Cycle_Price_Swings-Peak-to-Trough_Differences_Across_Years.png)](https://public.tableau.com/views/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Sydney's fuel market exhibited an Average Cycle Price Swing of $19.0c/L, representing a 10.2% increase from trough to peak within each cycle.
 
@@ -146,7 +145,7 @@ Click the image below to access the interactive Tableau dashboard:
 ### Regional Fuel Price Variation Across Sydney
 
 Click the image below to access the interactive Tableau dashboard: 
-[![View Regional Fuel Price Variation Across Sydney Dashboard](https://public.tableau.com/static/images/Sy/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice/1.png)](https://public.tableau.com/views/SydneySubregionAverageFuelMarketPrice/SydneySubregionsAverageFuelPrice)
+[![View Regional Fuel Price Variation Across Sydney Dashboard](Visualisations/Sydney_Subregions_Average_Fuel_Market_Price.png)](https://public.tableau.com/views/SydneySubregionsAverageFuelPrice/SydneySubregionsAverageFuelPrice?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="Visualisations/Subregion_Fuel_Price.png" width="800" alt="Subregion Fuel Price info"/>
 
@@ -172,7 +171,7 @@ Click the image below to access the interactive Tableau dashboard:
 - In contrast, most other brands saw a sharp decline in cycle price swing during 2023, followed by a modest rebound or stabilization in 2024, indicating a partial return to more typical cycle behavior.
 
 Click the image below to access the interactive Tableau dashboard: 
-[![View Sydney Fuel Market Price by Brands 2023 Dashboard](https://public.tableau.com/static/images/Sy/SydneyAverageMarketFuelPricebyBrands2023/2023SydneyAverageFuelMarketPricebyBrands/1.png)](https://public.tableau.com/views/SydneyAverageMarketFuelPricebyBrands2023/2023SydneyAverageFuelMarketPricebyBrands)
+[![View Sydney Fuel Market Price by Brands 2023 Dashboard](Visualisations/Sydney_Average_Fuel_Market_Price_by_brands_2023.png)](https://public.tableau.com/views/2023SydneyFuelPricebybrands/2023SydneyFuelPricebybrands?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Analysis of weekly price trends in 2023 reveals that consumers can improve fuel savings by alternating between brands with different price fluctuation profiles.
 
@@ -213,4 +212,4 @@ Drawing inspiration from 7-Eleven’s price-lock feature, Energy Oracle could mo
 
 
 - Data cleaning and preprocessing were performed and documented in [Excel](https://drive.google.com/drive/folders/1-ippmnTmg4Rj_ObE9Llx6kPAvnjzUyYg?usp=sharing) & [Python(Juypter Notebook)](Data_preprocessing/).
-- Data exploration, analysis and findings are avaliable on [Tableau Public](https://public.tableau.com/views/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), with supporting workbooks provided in [Tableau and Excel formats](Data_exploration/).
+- Data exploration, analysis and findings are avaliable on [Tableau Public](https://public.tableau.com/views/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024/WeeklyFuelPriceTrendandCycleAnalysisinSydney2022-2024?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), with supporting workbooks provided in [Tableau and Excel formats](Data_exploration/).
