@@ -130,7 +130,7 @@ Click the image below to access the interactive Tableau dashboard:
 
 
 ### Fuel Cycle Dynamics
-![Fuel Cycle Dynamic info](Visualisations/Fuel_Cycle_Dynamics.png)
+![Fuel Cycle Dynamic info](Visualisations/Fuel_Cycles_Dynamics.png)
 
 Click the image below to access the interactive Tableau dashboard: 
 [![View Cycle Price Swing Dashboard](Visualisations/Cycle_Price_Swings-Peak-to-Trough_Differences_Across_Years.png)](https://public.tableau.com/views/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears/CyclePriceSwingsPeak-to-TroughDifferencesAcrossyears?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
